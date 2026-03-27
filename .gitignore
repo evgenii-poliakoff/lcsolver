@@ -1,0 +1,15 @@
+__pycache__
+.ipynb_checkpoints/
+notebooks/**/*.npz
+notebooks/**/*.txt
+notebooks/**/*.eps
+!notebooks/pictures/*.eps
+notebooks/**/*.jpg
+!notebooks/pictures/*.jpg
+notebooks/**/*.gif
+!notebooks/pictures/*.gif
+!notebooks/wigner_function/pictures/*.eps
+scripts/repo/*
+conda-env/
+tests/test_artifacts/*
+.virtual_documents/*
